@@ -23,3 +23,11 @@
 ## Why?
 
 I wanted to make a minimal template with cookie-based auth, user/pass login, and Stripe integration.
+
+## Getting Started
+
+```
+POSTGRES_URL="postgres://..."
+BASE_URL="http://localhost:3000"
+
+```
