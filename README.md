@@ -40,7 +40,7 @@ You'll need to set up the following environment variables for the application to
 ```bash
 POSTGRES_URL="postgres://"
 # For Stripe Test mode
-STRIPE_WEBHOOK_SECRET="whsec_32f8934ef6f2a4b68900c7af4bab79c489cfb26465a4ea3839ccaad040f2838d"
+STRIPE_WEBHOOK_SECRET="whsec_32f..."
 BASE_URL="http://localhost:3000"
 ```
 
